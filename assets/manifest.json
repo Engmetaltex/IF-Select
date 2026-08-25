@@ -1,0 +1,9 @@
+{
+  "name": "IF Select",
+  "short_name": "IF Select",
+  "description": "Sistema de seleção de inversores",
+  "display": "standalone",
+  "start_url": "/",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0A2D42"
+}
