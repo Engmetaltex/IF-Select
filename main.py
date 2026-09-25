@@ -2110,7 +2110,7 @@ def main(page: ft.Page):
         alignment=ft.alignment.center,
         height=20,
         bgcolor="#F8FBFB",#0A2D42
-        content=ft.Text("© Todos os direitos reservado - Metaltex  (versão 1.03)",
+        content=ft.Text("© Todos os direitos reservado - Metaltex  (versão 1.03) - Desenvolvido Joelson Souza",
         color=ft.Colors.BLACK,
         size=9,
         text_align=ft.TextAlign.CENTER,
